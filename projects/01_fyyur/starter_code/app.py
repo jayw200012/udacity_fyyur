@@ -22,6 +22,7 @@ app.config.from_object('config')
 db = SQLAlchemy(app)
 
 # TODO: connect to a local postgresql database
+# This is where I'm going to get started on my files
 
 #----------------------------------------------------------------------------#
 # Models.
